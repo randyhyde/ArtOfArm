@@ -21,7 +21,7 @@ loopIndex:  .dword       .-.     // Used to print loop index value.
 // to store return addresses and the like.
 
             .align      4
-smallStk:   .fill       256, .-.
+smallStk:   .space       256, .-.
 endSmallStk:
 
             .code
