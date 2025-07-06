@@ -2,7 +2,7 @@
 //
 // Comments consist of all text from a
 // "//" sequence"  to the end of the line.
-// The ".text" directive tells MASM that the
+// The ".text" directive tells Gas that the
 // statements following this directive go in
 // the section of memory reserved for machine
 // instructions (code).        
